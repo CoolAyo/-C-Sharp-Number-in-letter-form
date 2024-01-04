@@ -1,0 +1,16 @@
+C:\Users\Ayo Alabi\Documents\Visual Studio Projects\Number in letter form VS 2022\bin\Debug\Number in letter form VS 2022.exe.config
+C:\Users\Ayo Alabi\Documents\Visual Studio Projects\Number in letter form VS 2022\bin\Debug\Number in letter form VS 2022.exe
+C:\Users\Ayo Alabi\Documents\Visual Studio Projects\Number in letter form VS 2022\bin\Debug\Number in letter form VS 2022.pdb
+C:\Users\Ayo Alabi\Documents\Visual Studio Projects\Number in letter form VS 2022\obj\Debug\Number in letter form VS 2022.csproj.AssemblyReference.cache
+C:\Users\Ayo Alabi\Documents\Visual Studio Projects\Number in letter form VS 2022\obj\Debug\Number in letter form VS 2022.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ayo Alabi\Documents\Visual Studio Projects\Number in letter form VS 2022\obj\Debug\Number in letter form VS 2022.csproj.CoreCompileInputs.cache
+C:\Users\Ayo Alabi\Documents\Visual Studio Projects\Number in letter form VS 2022\obj\Debug\Number in letter form VS 2022.exe
+C:\Users\Ayo Alabi\Documents\Visual Studio Projects\Number in letter form VS 2022\obj\Debug\Number in letter form VS 2022.pdb
+C:\Users\Ayo Alabi\Documents\Visual Studio Projects\Number in letter form (Higher Limits)\bin\Debug\Number in letter form VS 2022.exe.config
+C:\Users\Ayo Alabi\Documents\Visual Studio Projects\Number in letter form (Higher Limits)\bin\Debug\Number in letter form VS 2022.exe
+C:\Users\Ayo Alabi\Documents\Visual Studio Projects\Number in letter form (Higher Limits)\bin\Debug\Number in letter form VS 2022.pdb
+C:\Users\Ayo Alabi\Documents\Visual Studio Projects\Number in letter form (Higher Limits)\obj\Debug\Number in letter form VS 2022.csproj.AssemblyReference.cache
+C:\Users\Ayo Alabi\Documents\Visual Studio Projects\Number in letter form (Higher Limits)\obj\Debug\Number in letter form VS 2022.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ayo Alabi\Documents\Visual Studio Projects\Number in letter form (Higher Limits)\obj\Debug\Number in letter form VS 2022.csproj.CoreCompileInputs.cache
+C:\Users\Ayo Alabi\Documents\Visual Studio Projects\Number in letter form (Higher Limits)\obj\Debug\Number in letter form VS 2022.exe
+C:\Users\Ayo Alabi\Documents\Visual Studio Projects\Number in letter form (Higher Limits)\obj\Debug\Number in letter form VS 2022.pdb
